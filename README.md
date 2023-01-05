@@ -31,7 +31,8 @@
 
 <p align="center">
   
-<p> Device Specification </p>
+<!-- <p> Device Specification </p> -->
+<p></p>
   <a href="">
     <img align="center" src="https://img.shields.io/badge/Apple-MacBook_2021-999999?style=for-the-badge&logo=apple&logoColor=white">
   </a>
@@ -39,7 +40,41 @@
 
 
 
-<p> Web Technologies </p>
+
+<!-- <p> Mobile Technologies </p> -->
+<p></p>
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  </a>
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  </a>
+<br>
+
+
+
+
+<!-- <p> Programming Technologies </p> -->
+<p></p>
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  </a>
+  <a href="https://www.cplusplus.com/doc/tutorial/">
+    <img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  </a>
+  <a href="https://www.python.org/">
+    <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+<br>
+
+  
+  
+  
+
+<!-- <p> Web Technologies </p> -->
+<p></p>
   <a href="https://html.com/">
     <img align="center" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   </a>  
@@ -52,38 +87,31 @@
   <a href="">
     <img align="center" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   </a>
-<br> 
+<br>
   
   
-  
-  
-<p> Mobile Technologies </p>
+ 
+<!-- <p> Mobile Platform  </p> -->
+<p></p>
   <a href="">
-    <img align="center" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   </a>
   <a href="">
-    <img align="center" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+  </a>  
+    <a href="">
+    <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  </a>
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
   </a>
 <br>
 
 
-<p> Programming Technologies </p>
-  <a href="">
-    <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  </a>
-  <a href="https://www.cplusplus.com/doc/tutorial/">
-    <img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-  <a href="">
-    <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  </a>
-  <a href="https://www.python.org/">
-    <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  </a>
-<br>  
-  
-  
-  
-<p> Platforms </p>
+
+
+<!-- <p> Platforms </p> -->
+<p></p>
   <a href="https://stackoverflow.com/users/16510204/aditya-arya">
     <img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   </a>
@@ -96,31 +124,13 @@
   <a href="https://git-scm.com/">
     <img align="center" src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white">
   </a>
-<br> 
+<br>
+  
+  
+  
 
-  
-  
-<p> Mobile Platform  </p>
-  <a href="">
-    <img align="center" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  </a>
-  <a href="">
-    <img align="center" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
-  </a>  
-<br>
-  
-  
-<p> Desktop Platform  </p>
-  <a href="">
-    <img align="center" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
-  </a>
-  <a href="">
-    <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  </a>
-<br>
-  
- 
-<p> UNIX Platform  </p>
+<!-- <p> UNIX Platform  </p> -->
+<p></p>
   <a href="">
     <img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   </a>
@@ -139,19 +149,8 @@
   <a href="">
     <img align="center" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
   </a>
-<br>
-  
-  
-  <br> <br>
+<br> <br>
 </p>
-
-
-<!-- SOCIAL TAGS -->
-<a href="https://www.linkedin.com/in/aditya-arya-">
-  <img align="center" src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-
 </h1>
 <hr>
 
