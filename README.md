@@ -32,12 +32,12 @@
 <p align="center">
   
 <!-- <p> Device Specification </p> -->
-<p></p>
+<!-- <p></p>
   <a href="">
     <img align="center" src="https://img.shields.io/badge/Apple-MacBook_2021-999999?style=for-the-badge&logo=apple&logoColor=white">
   </a>
 <br>
-
+ -->
 
 
 
