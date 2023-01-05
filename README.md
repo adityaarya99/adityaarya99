@@ -2,6 +2,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Hello+World;+Welcome+to+my+Github+Profile;My+name+is+Aditya+Arya;I+develop+Mobile+Applications" alt="Welcome" /></a>
 </h1>
 
+[![Aditya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=adityaarya99&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<!-- GITHUB README STATS -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=adityaarya99&count_private=true&show_icons=true&theme=radical" >
@@ -9,6 +13,7 @@
    </p>
 
 
+<!-- SKILLS TAGS -->
 <p align="center">
   <a href="https://www.cplusplus.com/doc/tutorial/">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
@@ -27,6 +32,7 @@
 </p>
 
 
+<!-- SOCIAL TAGS -->
   <p align="center">
     <a href="https://www.linkedin.com/in/aditya-arya-">
       <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white">
