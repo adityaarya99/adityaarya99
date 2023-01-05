@@ -1,6 +1,5 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Aditya+Arya" alt="Aditya Arya" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Hello+World;+Welcome+to+my+Github+Profile;My+name+is+Aditya+Arya;I+develop+Mobile+Applications" alt="Welcome" /></a>
 </h1>
 
 
