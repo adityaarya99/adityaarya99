@@ -26,22 +26,122 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaarya99&layout=compact">
 </a> -->
 
-  <br>  <br>
+<br>  <br>
 
-<!-- SKILLS TAGS -->
+
 <p align="center">
-  <a href="https://www.cplusplus.com/doc/tutorial/">
-    <img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+  
+<p> Device Specification </p>
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/Apple-MacBook_2021-999999?style=for-the-badge&logo=apple&logoColor=white">
   </a>
+<br>
+
+
+
+<p> Web Technologies </p>
   <a href="https://html.com/">
     <img align="center" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+  </a>  
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </a>
-  <a href="https://nodejs.org/en/">
-    <img align="center" src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+  </a>
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  </a>
+<br> 
+  
+  
+  
+  
+<p> Mobile Technologies </p>
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  </a>
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  </a>
+<br>
+
+
+<p> Programming Technologies </p>
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  </a>
+  <a href="https://www.cplusplus.com/doc/tutorial/">
+    <img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  </a>
+  <a href="https://www.python.org/">
+    <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+<br>  
+  
+  
+  
+<p> Platforms </p>
+  <a href="https://stackoverflow.com/users/16510204/aditya-arya">
+    <img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+  </a>
+  <a href="https://github.com/adityaarya99">
+    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://bitbucket.org/adityaa1044/">
+    <img align="center" src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white">
   </a>
   <a href="https://git-scm.com/">
     <img align="center" src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white">
   </a>
+<br> 
+
+  
+  
+<p> Mobile Platform  </p>
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  </a>
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+  </a>  
+<br>
+  
+  
+<p> Desktop Platform  </p>
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
+  </a>
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  </a>
+<br>
+  
+ 
+<p> UNIX Platform  </p>
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  </a>
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  </a>
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+  </a>
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
+  </a>
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
+  </a>
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
+  </a>
+<br>
+  
+  
   <br> <br>
 </p>
 
