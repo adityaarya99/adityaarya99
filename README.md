@@ -1,7 +1,13 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Hello+World;+Welcome+to+my+Github+Profile;My+name+is+Aditya+Arya;I+develop+Mobile+Applications" alt="Welcome" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?        font=Fira+Code&weight=500&pause=1000&width=435&lines=Hello+World;+Welcome+to+my+Github+Profile;My+name+is+Aditya+Arya;I+develop+Mobile+Applications" alt="Welcome" /></a>
 </h1>
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=adityaarya99&count_private=true&show_icons=true&theme=radical" >
+  </a>
+   </p>
+<!-- ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaarya99&count_private=true&show_icons=true&theme=radical) -->
 
 <!-- <h1 align="center"> 📊 Statistics: </h1> -->
 <!-- 
