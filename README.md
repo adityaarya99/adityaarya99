@@ -22,10 +22,14 @@
 </p>
   
   
- <!-- GITHUB LANGUAGE STATS -->
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaarya99&layout=compact">
-</a> -->
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<!-- <p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sreyan-ghosh's streak" src="https://github-readme-streak-stats.herokuapp.com?user=adityaarya99theme=gotham&hide_border=true"/>
+  </a>
+</p>
+</br> -->
+  
 
 <br>  <br>
 
